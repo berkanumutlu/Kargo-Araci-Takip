@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\KargoSirketi\KargoSirketi\bin\Debug\KargoSirketi.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\KargoSirketi\KargoSirketi\bin\Debug\KargoSirketi.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.exe
+C:\Users\DELL\Desktop\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.pdb
+C:\Users\DELL\Desktop\KargoSirketi\KargoSirketi\bin\Debug\KargoSirketi.exe
+C:\Users\DELL\Desktop\KargoSirketi\KargoSirketi\bin\Debug\KargoSirketi.pdb
+C:\Users\DELL\Desktop\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta3\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta3\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta3\KargoSirketi\KargoSirketi\bin\Debug\KargoSirketi.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta3\KargoSirketi\KargoSirketi\bin\Debug\KargoSirketi.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta3\KargoSirketi\KargoSirketi\obj\x86\Debug\KargoSirketi.csprojResolveAssemblyReference.cache
